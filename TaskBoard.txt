@@ -1,0 +1,5 @@
+1. Conduct sprint planning
+2. Sprint grooming
+3. Sprint demo
+4. Story implementation
+5. Story validation from QA
